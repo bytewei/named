@@ -1,0 +1,4 @@
+key "internal-key" {
+	algorithm hmac-md5;
+        secret "qnye95BOzit5HXsltroxRgeIrHNAt8LLPJMbtReQOv3/cC6KKpWdwi+OfW51ItKAiP3UmYYifpSNpY5LHIS6Jw==";
+};

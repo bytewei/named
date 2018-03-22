@@ -1,0 +1,4 @@
+key "external-key" {
+	algorithm hmac-md5;
+        secret "iNpuvE+RWycwJGsspT9yDRVCik7nDejtsLV99zfDPGn2fjqSprwxF14+Qe0c6HPkWyWeIMbFCixg/AO+pKYICQ==";
+};
