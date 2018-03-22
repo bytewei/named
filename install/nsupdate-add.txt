@@ -1,0 +1,8 @@
+server 10.10.10.9
+zone idc1.in.test.com
+update add xstest.idc1.in.test.com. 1800 A 10.2.2.2
+send
+zone 10.in-addr.arpa
+update add 2.2.2.10.in-addr.arpa 1800 PTR xstest.idc1.in.test.com
+send
+
